@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body{
+    background-image: url('https://unisantanna.br/wp-content/uploads/2019/08/ciencia-da-computacao-min.jpg');
+    background-position: center auto;
+    background-size: cover;
+    height: auto;
+    left: 0;
+    min-height: 100%;
+    min-width: 100%;
+    position: relative;
+    top: 0;
+    width: auto;
+}
+
