@@ -64,19 +64,14 @@ p{
 .main .logo.cursive{
     padding: 20px;
     font-family: 'Grand Hotel',cursive;
-    font-size: 6em;
+    font-size: 4em;
     background: rgba(255, 255, 255, 0.1);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
     border-radius: 10px;
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -120%);
-    -webkit-transform: translate(-50%, -120%);
-    -moz-transform: translate(-50%, -120%);
-    -ms-transform: translate(-50%, -120%);
-    -o-transform: translate(-50%, -120%);
+    position: relative;
+    left: auto;
+    top: auto;
 }
 .main .content{
     position: relative;
